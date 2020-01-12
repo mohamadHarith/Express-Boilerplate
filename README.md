@@ -24,6 +24,7 @@ https://www.coreycleary.me/project-structure-for-an-express-rest-api-when-there-
 
 **To run:**
 ```
+npm install
 npm start
 ```
 **Sample Endpoint**
