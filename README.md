@@ -12,7 +12,7 @@ https://www.coreycleary.me/project-structure-for-an-express-rest-api-when-there-
 +-- db
 |   +-- config.js
 |   +-- index.js
-|	+-- sampleDB.js
+|	  +-- sampleDB.js
 +-- routes
 |   +-- index.js
 |   +-- sampleRoutes.js
